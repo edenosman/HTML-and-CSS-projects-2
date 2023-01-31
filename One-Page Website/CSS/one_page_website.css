@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.contact {
+    width: auto;
+    margin-top: 0% auto;
+    margin-right: 2px;
+    margin-bottom: 0% auto;
+    margin-left: 2px;
+    border: 4px 4px 4px 3px;
+    border-radius: 3px blue;
+}
